@@ -7,6 +7,7 @@ I'm currently learning Python and building small projects as I work towards beco
 ## Projects
 - **Number Guesser Game** – A command-line game where the user tries to guess a randomly generated number with hints provided after each guess.
 - **Python CLI Calculator** – A command-line calculator that supports addition, subtraction, multiplication, and division, with features to redo numbers or change operations during input.
+- (More projects will be added as I build them)
 
 ## Goals
 - Master Python fundamentals
